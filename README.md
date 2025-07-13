@@ -29,7 +29,7 @@ What We Did:
 
 Skills Applied:
 
-•	Understanding of basic electrical components
-•	Circuit building with breadboard
-•	Arduino pin configuration
-•	Programming with digitalWrite and delay in Arduino IDE
+ •	Understanding of basic electrical components 
+ •	Circuit building with breadboard
+ •	Arduino pin configuration
+ •	Programming with digitalWrite and delay in Arduino IDE
