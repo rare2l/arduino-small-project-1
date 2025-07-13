@@ -5,6 +5,7 @@ The goal of this project was to create a simple LED control system using an Ardu
 ⸻
 
 Materials Used:
+
 •	Arduino Uno – microcontroller
 •	3 LEDs – red, green, and blue
 •   3 Resistors (220Ω) – to limit current to each LED
@@ -27,6 +28,7 @@ What We Did:
 ⸻
 
 Skills Applied:
+
 •	Understanding of basic electrical components
 •	Circuit building with breadboard
 •	Arduino pin configuration
